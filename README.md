@@ -1,6 +1,6 @@
 # 🤖 GDD Python Advanced — Class 1 (Robo-Lab)
 
-> 📅 ทุกวันเสาร์ 08:00–10:00 · GDD Coding School
+> 📅 ทุกวันเสาร์ 08:00–10:00 · GDD Coding School · 👨‍🏫 Kru Arm+Y
 > 📂 แต่ละสัปดาห์อยู่ในโฟลเดอร์ชื่อวันที่ เช่น `2026-10-10/` — ครูจะเพิ่มโฟลเดอร์ใหม่ทุกสัปดาห์
 
 ## 📚 ในโฟลเดอร์ของแต่ละสัปดาห์
@@ -36,7 +36,7 @@ repo ครู (upstream) ──fork──▶ repo ของฉัน (origin) �
    ```
 3. เชื่อมกับ repo ของครู (ตั้งชื่อว่า `upstream`)
    ```bash
-   git remote add upstream https://github.com/<ชื่อครู>/gdd-class1-python.git
+   git remote add upstream https://github.com/yossaponc15/gdd-class1-python.git
    git remote -v
    ```
    ต้องเห็นทั้ง `origin` (ของฉัน) และ `upstream` (ของครู)
